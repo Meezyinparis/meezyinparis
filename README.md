@@ -2,9 +2,8 @@
 * 👀 I’m interested in learning everything to enrich myself.
 * 🌱 I’m currently pretty good in C++, Python, Java, Javascript, HTML, CSS and Powershell.
 * 💞️ I’m looking to collaborate on anything.
-* 📫 You can reach me @meezyinparis on instagram, by email at emmanuel.senosier@live.com. 
-` ` 
-` ` 
+* 📫 You can reach me @meezyinparis on instagram, by email at emmanuel.senosier@live.com.
+* 
 * 👋 Allo, je suis @meezyinparis
 * 👀 Je suis intéressé à apprendre n'importe quoi pour m'enrichir.
 * 🌱 Je suis présentement bon en C++, Python, Java, Javascript, HTML, CSS et Powershell.
